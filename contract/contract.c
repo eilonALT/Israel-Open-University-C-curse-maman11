@@ -1,6 +1,6 @@
 /* 
    ------------------------------------------------------ Maman: 11 ----------------------------------------------------------
-    Eilon Alter  208500603
+    Eilon Alter  208500603 
 
     This program gets input from user/file and minimize sequences
 */
