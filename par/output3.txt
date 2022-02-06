@@ -1,0 +1,21 @@
+Please enter a string:
+{
+ This row is not valid  
+
+/*{*/
+ This row is valid  
+
+[ [[()]]]
+ This row is valid  
+
+("(")    
+ This row is valid  
+
+()    
+ This row is valid  
+
+}
+ This row is not valid  
+
+---------------------------------------------------------------------------------------------------- 
+The total input is valid 

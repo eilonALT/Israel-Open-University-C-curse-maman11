@@ -1,0 +1,5 @@
+Please enter a string:
+
+The original string is: 1234564das4d6a5s456aaaasdabcdef1234568898777sssabcdef@#$#%$^%1789654456789987gij 
+
+The result string is: 1-64das4d6a5s4-6aaaasda-f1-68898777sssa-f@#$#%$^%17-96544-9987gij 

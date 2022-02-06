@@ -1,0 +1,5 @@
+Please enter a string:
+
+The original string is: ABCDEF131236543218#@!$@$88878999ABCDabcdAbCdEQRST123#$!#456 
+
+The result string is: A-F131-36543218#@!$@$8887-999A-Da-dAbCdEQ-T1-3#$!#4-6 

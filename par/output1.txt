@@ -1,0 +1,18 @@
+Please enter a string:
+if (x>y)
+ This row is valid  
+
+{
+ This row is not valid  
+
+    z[(1)] = 0;
+ This row is valid  
+
+    printf("x>y/n");
+ This row is valid  
+
+}
+ This row is not valid  
+
+---------------------------------------------------------------------------------------------------- 
+The total input is valid 
